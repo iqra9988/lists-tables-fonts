@@ -1,0 +1,31 @@
+/* UNORDERD LIST */
+/*ul{
+    list-style-type: square;
+}*/
+/* ORDERD LIST */
+/*ol{
+   list-style-type: lower-roman;
+}*/
+/* IMAGES FOR BULLETS */
+/*h1{
+    color: blue;
+}*/
+/*ul{
+    list-style-image: url("./icons8.png");
+    li{
+        margin: 10px 0px 0px 0px;
+    }*/
+
+    /* LIST STYLE POSITION */
+    /*.illuminations{
+        list-style-position: outside;
+    }
+    .season{
+        list-style-position: inside;
+    /* }
+
+    /* LIST SHORTHAND */
+    ul{
+        list-style: inside square;
+        
+    }
