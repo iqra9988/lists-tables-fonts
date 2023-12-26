@@ -86,3 +86,49 @@
         table {
         border-collapse: collapse;
     }*/
+    /* #ln{
+        margin-top: 6px;
+    }
+    input{
+        font-size: xx-large;
+        background-color: black;
+        color: whitesmoke;
+    } */
+    /*input{
+        border: 3px solid brown;
+        border-radius: 6px;
+    }*/
+    /* input:hover{
+        background-color: lightblue;
+    }
+    input:focus{
+        border: 2px solid goldenrod;
+        outline: none;
+    } */
+    /*#email{
+        background-image:url("./email.png") ;
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 20px;
+    }
+    #github{
+        background-image: url("./github.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 20px;
+    }*/
+
+    /* STYLING FIELDSET AND LAGEND */
+    fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;}
